@@ -2,13 +2,14 @@
 ## Capital Structure as Technical Architecture Decision
 ### Integrated Analysis: July 15, 2026 Market Inflection
 
-* https://github.com/ericrenone/SpaceX-Orbital-Compute-Architecture-Valuation-and-the-October-2026-Specification-Decision
-* https://github.com/ericrenone/The-20-Billion-Specification-Trap---SpaceX
-
 **Status**: Post-IPO market repricing validates capital-architecture mechanism  
 **Date**: July 15, 2026 (1 day before Starship Flight 13)  
 **Market Snapshot**: SPCX $135.27 (-40.4% from peak, -0.18% below IPO price)  
 **Critical Window**: 108 days to October 31, 2026 specification deadline  
+
+---
+* https://github.com/ericrenone/SpaceX-Orbital-Compute-Architecture-Valuation-and-the-October-2026-Specification-Decision
+* https://github.com/ericrenone/The-20-Billion-Specification-Trap---SpaceX
 
 ---
 
